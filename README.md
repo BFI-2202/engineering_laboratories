@@ -10,7 +10,7 @@
 | 2 | Анализ рисков | [pdf](semester_01/laboratory_02.pdf) | [repo](https://github.com/PatriotRossii/engineering_laboratories_1) |
 | 3 | Сравнительный анализ информационных систем | [pdf](semester_01/laboratory_03.pdf) | [repo](https://github.com/PatriotRossii/engineering_laboratories_2) |
 | 4 | Временное планирование проекта. Диаграмма Ганта | [pdf](semester_01/laboratory_04.pdf) | [repo](https://github.com/PatriotRossii/engineering_laboratories_3) |
-| 5 (4) | Этап выявления потребностей | [pdf](semester_01/laboratory_05.pdf) | |
+| 5 (4) | Этап выявления потребностей | [pdf](semester_01/laboratory_05.pdf) | [repo](https://github.com/PatriotRossii/engineering_laboratories_4) |
 | 6 (5) | Этап выявления проблемы | [pdf](semester_01/laboratory_06.pdf) | |
 | 7 (6) | Этап анализа проблемы | [pdf](semester_01/laboratory_07.pdf) | |
 | 8-9 (7-8) | Определение границ системы | [pdf](semester_01/laboratory_08.pdf) | |
